@@ -1,0 +1,505 @@
+1667135457298	geckodriver	INFO	Listening on 127.0.0.1:53121
+1667135460004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7zXNDZ"
+1667135473654	Marionette	INFO	Marionette enabled
+1667135473672	Marionette	INFO	Listening on port 53173
+Read port: 53173
+Read port: 53173
+Read port: 53173
+Read port: 53173
+Read port: 53173
+Read port: 53173
+Read port: 53173
+1667135481358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7zXNDZ\\search.json.mozlz4", (void 0)))
+1667135501916	Marionette	INFO	Stopped listening on port 53173
+[Parent 12224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1667135625759	geckodriver	INFO	Listening on 127.0.0.1:53788
+1667135628680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile50XMq0"
+1667135629645	Marionette	INFO	Marionette enabled
+1667135629654	Marionette	INFO	Listening on port 53820
+Read port: 53820
+1667135629915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile50XMq0\\search.json.mozlz4", (void 0)))
+1667135643901	Marionette	INFO	Stopped listening on port 53820
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1667137222777	geckodriver	INFO	Listening on 127.0.0.1:59655
+1667137225753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilen7gNvL"
+1667137227184	Marionette	INFO	Marionette enabled
+1667137227195	Marionette	INFO	Listening on port 59699
+Read port: 59699
+1667137227526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilen7gNvL\\search.json.mozlz4", (void 0)))
+1667137244443	Marionette	INFO	Stopped listening on port 59699
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1667138592908	geckodriver	INFO	Listening on 127.0.0.1:49383
+1667138595785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile1km4W9"
+1667138597057	Marionette	INFO	Marionette enabled
+1667138597073	Marionette	INFO	Listening on port 49420
+Read port: 49420
+1667138597333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile1km4W9\\search.json.mozlz4", (void 0)))
+1667138610141	Marionette	INFO	Stopped listening on port 49420
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1667138983202	geckodriver	INFO	Listening on 127.0.0.1:49898
+1667138986194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4pczpa"
+1667138987309	Marionette	INFO	Marionette enabled
+1667138987328	Marionette	INFO	Listening on port 49929
+Read port: 49929
+1667138987661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4pczpa\\search.json.mozlz4", (void 0)))
+1667139001899	Marionette	INFO	Stopped listening on port 49929
+1667139730330	geckodriver	INFO	Listening on 127.0.0.1:53083
+1667139733140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileHFwsZ7"
+1667139734779	Marionette	INFO	Marionette enabled
+1667139734799	Marionette	INFO	Listening on port 53111
+Read port: 53111
+1667139735358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667140090544	geckodriver	INFO	Listening on 127.0.0.1:53348
+1667140093540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelkpXse"
+1667140094430	Marionette	INFO	Marionette enabled
+1667140094443	Marionette	INFO	Listening on port 53376
+Read port: 53376
+1667140094705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelkpXse\\search.json.mozlz4", (void 0)))
+1667140107919	Marionette	INFO	Stopped listening on port 53376
+[Parent 8488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1667147450969	geckodriver	INFO	Listening on 127.0.0.1:53109
+1667147453461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileI6c4Yo"
+1667147459782	Marionette	INFO	Marionette enabled
+1667147459848	Marionette	INFO	Listening on port 53153
+Read port: 53153
+Read port: 53153
+1667147462556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileI6c4Yo\\search.json.mozlz4", (void 0)))
+1667147597137	Marionette	INFO	Stopped listening on port 53153
+[Parent 5252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667148163518	geckodriver	INFO	Listening on 127.0.0.1:58978
+1667148166483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilel7r917"
+1667148167372	Marionette	INFO	Marionette enabled
+1667148167384	Marionette	INFO	Listening on port 59003
+Read port: 59003
+1667148167653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilel7r917\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1667148174823	Marionette	INFO	Stopped listening on port 59003
+1667148269828	geckodriver	INFO	Listening on 127.0.0.1:59232
+1667148272562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilebTMmtZ"
+1667148273697	Marionette	INFO	Marionette enabled
+1667148273713	Marionette	INFO	Listening on port 59267
+Read port: 59267
+1667148274282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilebTMmtZ\\search.json.mozlz4", (void 0)))
+1667148298061	Marionette	INFO	Stopped listening on port 59267
+1667148397969	geckodriver	INFO	Listening on 127.0.0.1:61140
+1667148400703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilepTj2eu"
+1667148401553	Marionette	INFO	Marionette enabled
+1667148401565	Marionette	INFO	Listening on port 61165
+Read port: 61165
+1667148401840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilepTj2eu\\search.json.mozlz4", (void 0)))
+1667148418967	Marionette	INFO	Stopped listening on port 61165
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667148771191	geckodriver	INFO	Listening on 127.0.0.1:61619
+1667148774113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileGryd3B"
+1667148775227	Marionette	INFO	Marionette enabled
+1667148775245	Marionette	INFO	Listening on port 61644
+Read port: 61644
+1667148775527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileGryd3B\\search.json.mozlz4", (void 0)))
+1667148793423	Marionette	INFO	Stopped listening on port 61644
+[Parent 10556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667148927723	geckodriver	INFO	Listening on 127.0.0.1:62920
+1667148930509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileYp4AZK"
+1667148931583	Marionette	INFO	Marionette enabled
+1667148931610	Marionette	INFO	Listening on port 63402
+Read port: 63402
+1667148932210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileYp4AZK\\search.json.mozlz4", (void 0)))
+1667148954924	Marionette	INFO	Stopped listening on port 63402
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667149218857	geckodriver	INFO	Listening on 127.0.0.1:64217
+1667149222617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileCs0m8z"
+1667149223761	Marionette	INFO	Marionette enabled
+1667149223770	Marionette	INFO	Listening on port 64242
+Read port: 64242
+1667149224425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileCs0m8z\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1667149239706	Marionette	INFO	Stopped listening on port 64242
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667149332641	geckodriver	INFO	Listening on 127.0.0.1:64911
+1667149335601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilepyYNxY"
+1667149337413	Marionette	INFO	Marionette enabled
+1667149337429	Marionette	INFO	Listening on port 64935
+Read port: 64935
+1667149338042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilepyYNxY\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1667149346605	Marionette	INFO	Stopped listening on port 64935
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667149426794	geckodriver	INFO	Listening on 127.0.0.1:65292
+1667149429517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3xuQYp"
+1667149430602	Marionette	INFO	Marionette enabled
+1667149430611	Marionette	INFO	Listening on port 65317
+Read port: 65317
+1667149430872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3xuQYp\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667149462722	Marionette	INFO	Stopped listening on port 65317
+1667149739261	geckodriver	INFO	Listening on 127.0.0.1:50978
+1667149742156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileDN5LI9"
+1667149743054	Marionette	INFO	Marionette enabled
+1667149743067	Marionette	INFO	Listening on port 51003
+Read port: 51003
+1667149743350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileDN5LI9\\search.json.mozlz4", (void 0)))
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667149756372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667149775581	Marionette	INFO	Stopped listening on port 51003
+1667149871152	geckodriver	INFO	Listening on 127.0.0.1:51594
+1667149874010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile5jiBF6"
+1667149875034	Marionette	INFO	Marionette enabled
+1667149875053	Marionette	INFO	Listening on port 51619
+Read port: 51619
+1667149875355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667193652476	geckodriver	INFO	Listening on 127.0.0.1:51709
+1667193655611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTUXEuu"
+1667193677785	Marionette	INFO	Marionette enabled
+1667193677829	Marionette	INFO	Listening on port 51829
+Read port: 51829
+Read port: 51829
+1667193680314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTUXEuu\\search.json.mozlz4", (void 0)))
+1667193721799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667193749816	Marionette	INFO	Stopped listening on port 51829
+1667468259419	geckodriver	INFO	Listening on 127.0.0.1:51805
+1667468262199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileGIP1Gs"
+1667468393527	geckodriver	INFO	Listening on 127.0.0.1:52470
+1667468396397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilebPjGQa"
+1667468397165	Marionette	INFO	Marionette enabled
+1667468397174	Marionette	INFO	Listening on port 52498
+Read port: 52498
+1667468398169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilebPjGQa\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667468456652	Marionette	INFO	Stopped listening on port 52498
+[Parent 4236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1667471382555	geckodriver	INFO	Listening on 127.0.0.1:60679
+1667471385085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileB3qXXg"
+1667471388448	Marionette	INFO	Marionette enabled
+1667471388459	Marionette	INFO	Listening on port 60745
+Read port: 60745
+1667471389554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileB3qXXg\\search.json.mozlz4", (void 0)))
+1667471507951	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+JavaScript error: https://assets.pharmeasy.in/apothecary/_next/static/chunks/pages/_app-cf7d08354fb7db79.js, line 1: Error: timeout of 3000ms exceeded
+1667471530914	Marionette	INFO	Stopped listening on port 60745
+1667471533627	geckodriver	INFO	Listening on 127.0.0.1:61327
+1667471536638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7VsWBK"
+1667471537522	Marionette	INFO	Marionette enabled
+1667471537531	Marionette	INFO	Listening on port 61355
+Read port: 61355
+1667471537845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile7VsWBK\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1667471562779	Marionette	INFO	Stopped listening on port 61355
+1667471563189	geckodriver	INFO	Listening on 127.0.0.1:61465
+1667471566234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileL6DyvT"
+1667471567760	Marionette	INFO	Marionette enabled
+1667471567782	Marionette	INFO	Listening on port 61515
+Read port: 61515
+1667471568189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileL6DyvT\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667471665227	Marionette	INFO	Stopped listening on port 61515
+1667471827323	geckodriver	INFO	Listening on 127.0.0.1:52460
+1667471830201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileOPgipk"
+1667471831628	Marionette	INFO	Marionette enabled
+1667471831640	Marionette	INFO	Listening on port 52514
+Read port: 52514
+1667471832046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileOPgipk\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667471878626	Marionette	INFO	Stopped listening on port 52514
+1667471881455	geckodriver	INFO	Listening on 127.0.0.1:53164
+1667471884418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenD5LB5"
+1667471885497	Marionette	INFO	Marionette enabled
+1667471885507	Marionette	INFO	Listening on port 53217
+Read port: 53217
+1667471885863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenD5LB5\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667471921185	Marionette	INFO	Stopped listening on port 53217
+1667471924638	geckodriver	INFO	Listening on 127.0.0.1:53790
+1667471927585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileZcozAt"
+1667471928413	Marionette	INFO	Marionette enabled
+1667471928421	Marionette	INFO	Listening on port 53818
+Read port: 53818
+1667471928752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileZcozAt\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667471976591	Marionette	INFO	Stopped listening on port 53818
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667472519511	geckodriver	INFO	Listening on 127.0.0.1:57540
+1667472522440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileK274bZ"
+1667472525709	Marionette	INFO	Marionette enabled
+1667472525721	Marionette	INFO	Listening on port 57633
+Read port: 57633
+1667472526295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileK274bZ\\search.json.mozlz4", (void 0)))
+1667472573019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472573794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667472592890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667472598915	Marionette	INFO	Stopped listening on port 57633
+[Parent 2108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667472607851	geckodriver	INFO	Listening on 127.0.0.1:58797
+1667472610750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuiCoT7"
+1667472613052	Marionette	INFO	Marionette enabled
+1667472613070	Marionette	INFO	Listening on port 58832
+Read port: 58832
+1667472613460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuiCoT7\\search.json.mozlz4", (void 0)))
+1667472634323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472634943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472653707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667472657403	Marionette	INFO	Stopped listening on port 58832
+1667472662179	geckodriver	INFO	Listening on 127.0.0.1:61880
+1667472665184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileCJlsdb"
+1667472666174	Marionette	INFO	Marionette enabled
+1667472666188	Marionette	INFO	Listening on port 61926
+Read port: 61926
+1667472666623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileCJlsdb\\search.json.mozlz4", (void 0)))
+1667472687397	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+166console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiledaJOqc\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472743759	Marionette	INFO	Stopped listening on port 62125
+67472706937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667472724196	Marionette	INFO	Stopped listening on port 61926
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1667472746675	geckodriver	INFO	Listening on 127.0.0.1:50350
+1667472749654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6U55Z4"
+1667472750533	Marionette	INFO	Marionette enabled
+1667472750542	Marionette	INFO	Listening on port 50380
+Read port: 50380
+1667472750838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6U55Z4\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472802759	Marionette	INFO	Stopped listening on port 50380
+1667472805269	geckodriver	INFO	Listening on 127.0.0.1:50869
+1667472808291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTfoWdb"
+1667472809064	Marionette	INFO	Marionette enabled
+1667472809072	Marionette	INFO	Listening on port 50898
+Read port: 50898
+1667472809323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTfoWdb\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667472855588	Marionette	INFO	Stopped listening on port 50898
+1667475217988	geckodriver	INFO	Listening on 127.0.0.1:53565
+1667475220531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenhtBR2"
+1667475224480	Marionette	INFO	Marionette enabled
+1667475224487	Marionette	INFO	Listening on port 53625
+Read port: 53625
+1667475225643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilenhtBR2\\search.json.mozlz4", (void 0)))
+1667475242993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667475273599	Marionette	INFO	Stopped listening on port 53625
+1667475275393	geckodriver	INFO	Listening on 127.0.0.1:54036
+1667475278341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileh5rCDy"
+1667475279007	Marionette	INFO	Marionette enabled
+1667475279019	Marionette	INFO	Listening on port 54064
+Read port: 54064
+1667475279318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileh5rCDy\\search.json.mozlz4", (void 0)))
+Safe Browsing server returned a 400 during update:request url = https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=106.0&pver=2.2, payload = ads-track-digest256;
+social-track-digest256;
+analytics-track-digest256;
+content-track-digest256;
+mozstd-trackwhite-digest256;
+google-trackwhite-digest256;
+base-fingerprinting-track-digest256;
+base-cryptomining-track-digest256;
+social-tracking-protection-facebook-digest256;
+social-tracking-protection-linkedin-digest256;
+social-tracking-protection-twitter-digest256;
+base-email-track-digest256;
+content-email-track-digest256;
+
+1667475322004	Marionette	INFO	Stopped listening on port 54064
+1667475324246	geckodriver	INFO	Listening on 127.0.0.1:54424
+1667475327233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNqc6Or"
+1667475328049	Marionette	INFO	Marionette enabled
+1667475328059	Marionette	INFO	Listening on port 54452
+Read port: 54452
+1667475328285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNqc6Or\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667475379725	Marionette	INFO	Stopped listening on port 54452
+[Parent 9280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667475716376	geckodriver	INFO	Listening on 127.0.0.1:59286
+1667475718695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileXPt189"
+1667475722268	Marionette	INFO	Marionette enabled
+1667475722281	Marionette	INFO	Listening on port 59346
+Read port: 59346
+1667475723566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileXPt189\\search.json.mozlz4", (void 0)))
+1667475747579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667475751147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://assets.pharmeasy.in/apothecary/_next/static/chunks/pages/_app-cf7d08354fb7db79.js, line 1: Error: timeout of 3000ms exceeded
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667475775483	Marionette	INFO	Stopped listening on port 59346
+1667475777707	geckodriver	INFO	Listening on 127.0.0.1:59920
+1667475780674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQeUB7W"
+1667475781363	Marionette	INFO	Marionette enabled
+1667475781372	Marionette	INFO	Listening on port 59948
+Read port: 59948
+1667475781613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQeUB7W\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667475817920	Marionette	INFO	Stopped listening on port 59948
+1667475820346	geckodriver	INFO	Listening on 127.0.0.1:60462
+1667475823314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilecgwNLJ"
+1667475824062	Marionette	INFO	Marionette enabled
+1667475824075	Marionette	INFO	Listening on port 60490
+Read port: 60490
+1667475824437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilecgwNLJ\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667475877126	Marionette	INFO	Stopped listening on port 60490
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667539666645	geckodriver	INFO	Listening on 127.0.0.1:62725
+1667539668898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilej0XT9U"
+1667539676417	Marionette	INFO	Marionette enabled
+1667539676460	Marionette	INFO	Listening on port 62787
+Read port: 62787
+Read port: 62787
+1667539684724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilej0XT9U\\search.json.mozlz4", (void 0)))
+1667539719876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667539722868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667539753155	Marionette	INFO	Stopped listening on port 62787
+[Parent 11156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667539757161	geckodriver	INFO	Listening on 127.0.0.1:63508
+1667539760183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTkWeDf"
+1667539760994	Marionette	INFO	Marionette enabled
+1667539761001	Marionette	INFO	Listening on port 63536
+Read port: 63536
+1667539761316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileTkWeDf\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667539799112	Marionette	INFO	Stopped listening on port 63536
+1667539801661	geckodriver	INFO	Listening on 127.0.0.1:64051
+1667539804658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileolFYmF"
+1667539805463	Marionette	INFO	Marionette enabled
+1667539805470	Marionette	INFO	Listening on port 64080
+Read port: 64080
+1667539805788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileolFYmF\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 766))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pharmeasy.in."
+1667539842970	Marionette	INFO	Stopped listening on port 64080
